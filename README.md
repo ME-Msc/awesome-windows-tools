@@ -19,6 +19,7 @@
 - [Keyviz](https://mularahul.github.io/keyviz/): Visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif): Record, edit and save your screen as a gif or video.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Perform operations on PDFs with this web app.
+- [TinyTask](https://www.tinytask.net/): Record and repeat your actions.
 
 ## Edge Add-ons
 
