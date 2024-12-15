@@ -22,6 +22,18 @@
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Perform operations on PDFs with this web app.
 - [TinyTask](https://www.tinytask.net/): Record and repeat your actions.
 - [Focusee](https://focusee.imobie.com/): Turn Screen Recordings into Eye-Catching.
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys):
+  - Shortcut Guide (Win+Shift+/): See shortcuts, Win+shoutcut to activate.
+  - Text Extractor (Win+Shift+T): Extracts text like the screenshot tool.
+  - Mouse utilities (Press Ctrl twice): Find your mouse.
+  - Fancy zones (Win+Shift+`): Create your zones layout.
+  - Command not found: Give you advice in PowerShell.
+  - Peek (Ctrl+Space): Peek a file in the folder.
+  - Hosts file editor: Manage your hosts easily.
+  - Keyboard manager: Remap your shortcuts.
+  - Color picker (Win+Shift+C)
+  - Always on top (Win+Ctrl+T)
+  - Image resizer
 
 ## Edge Add-ons
 
