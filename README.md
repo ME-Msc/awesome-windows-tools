@@ -10,6 +10,7 @@
 ## Tools
 
 - [UniGetUI](https://github.com/marticliment/UniGetUI): Manage your softwares.
+- [7zip](https://www.7-zip.org/): Best file compression and decompression tool.
 - [Everything](https://www.voidtools.com/en-us/): Quickly locate files and folders by name.
 - [Wox](https://github.com/Wox-launcher/Wox): Launch anything with Alt+Space.
 - [Caplocks+](https://capslox.com/capslock-plus/en.html): Enhance the Caps Lock key with extra functions, don't need the ↑↓←→ anymore.
