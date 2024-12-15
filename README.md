@@ -20,6 +20,7 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif): Record, edit and save your screen as a gif or video.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): Perform operations on PDFs with this web app.
 - [TinyTask](https://www.tinytask.net/): Record and repeat your actions.
+- [Focusee](https://focusee.imobie.com/): Turn Screen Recordings into Eye-Catching.
 
 ## Edge Add-ons
 
