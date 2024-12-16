@@ -1,6 +1,5 @@
 # awesome-windows-tools
 
-🔧 Awesome and interesting tools for Windows. 
 😎 No fluff, just stuff.
 
 > [!Note]
@@ -14,6 +13,8 @@
 - [Everything](https://www.voidtools.com/en-us/): Quickly locate files and folders by name.
 - [Wox](https://github.com/Wox-launcher/Wox): Launch anything with Alt+Space.
 - [Caplocks+](https://capslox.com/capslock-plus/en.html): Enhance the Caps Lock key with extra functions, don't need the ↑↓←→ anymore.
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): Shell prompt renderer.
+- [clink](https://github.com/chrisant996/clink): Auto-suggestions for your command line.
 - [CCleaner](https://www.ccleaner.com/ccleaner): Clean up your PC, clean the registry when uninstalling software.
 - [IDM](https://www.internetdownloadmanager.com/): Speed up downloads and manage them efficiently.
 - [Clash](https://github.com/clashdownload/Clash): VPN client for privacy and bypassing restrictions.
