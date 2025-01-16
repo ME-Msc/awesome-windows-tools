@@ -35,6 +35,7 @@
   - Color picker (Win+Shift+C)
   - Always on top (Win+Ctrl+T)
   - Image resizer
+- [Traymond](https://github.com/fcFn/traymond): Minimize every app to tray icons by Win+Shift+Z. (I use it for Zotero)
 
 ## Edge Add-ons
 
