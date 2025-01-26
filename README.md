@@ -36,6 +36,7 @@
   - Always on top (Win+Ctrl+T)
   - Image resizer
 - [Traymond](https://github.com/fcFn/traymond): Minimize every app to tray icons by Win+Shift+Z. (I use it for Zotero)
+- [scrcpy](https://github.com/Genymobile/scrcpy): Mirroring and recording Android device, file drop and bidirectional copy-paste.
 
 ## Edge Add-ons
 
