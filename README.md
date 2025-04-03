@@ -38,6 +38,7 @@
 - [Traymond](https://github.com/fcFn/traymond): Minimize every app to tray icons by Win+Shift+Z. (I use it for Zotero)
 - [scrcpy](https://github.com/Genymobile/scrcpy): Mirroring and recording Android device, file drop and bidirectional copy-paste.
 - [olmOCR](https://github.com/allenai/olmocr): Convert tables, equations, handwriting in PDFs or images into plain text by LLM.
+- [TranlucentTB](https://github.com/TranslucentTB/TranslucentTB): A lightweight utility that makes the Windows taskbar translucent/transparent.
 
 ## Edge Add-ons
 
